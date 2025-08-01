@@ -1,1 +1,7 @@
 *.tsv
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+pyvenv.cfg
